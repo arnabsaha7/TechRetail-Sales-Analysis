@@ -11,7 +11,7 @@ This project, **TechRetail Azure Data Pipeline Analysis**, provides a robust ana
 
 ## 📂 Repository Structure
 
-- **📊 PowerBI/**: Includes the Power BI report template (`.pbit`) with interactive dashboards and visualizations.
+- **📊 PowerBI/**: Includes the Power BI report template (`.pbix`) with interactive dashboards and visualizations.
 - **📑 PPT/**: Contains the main presentation file (`TechRetail_AzureDataPipeline.pptx`) and a PDF version summarizing the project findings.
 - **📓 Notebook/**: A Databricks notebook that documents the data preprocessing, analysis, and insights generation process.
 
